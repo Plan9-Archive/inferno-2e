@@ -1,0 +1,25 @@
+This is an historical snapshot of the bulk of the last Inferno source tree received by Vita Nuova
+in mid 1999 from Lucent's Inferno Business Unit, which was being shut down.
+It is not intended to be usable, nor is it intended that it run or even compile on any current platform.
+It was Lucent's Release 2.3 Build 265i.
+In Vita Nuova's naming, it corresponds to Inferno Second Edition.
+Vita Nuova had been involved in Inferno development as an Inferno customer since 1996,
+and as contractors to the Business Unit since 1997 (starting with the first PowerPC port).
+It acquired rights to Inferno from Lucent in March 2000, and produced its own Inferno
+release as Inferno Third Edition ca. July 2000.
+Until that release, Inferno was not normally distributed in complete source form, even to
+native port customers (hence the Dist.a archive references in os).
+Thus, this historical distribution will for many be the first sight of the source as it then was.
+(forsyth@vitanuova.com, 19 October 2007)
+
+It excludes various proprietary ports and other material that were in the source tree we received.
+It also excludes the fonts to save space.
+
+-------
+
+Inferno® Copyright © 1996-1999 Lucent Technologies Inc.  All rights reserved.
+Inferno revisions Copyright © 1999 Vita Nuova Limited.  All rights reserved.
+
+Lucida® fonts Copyright © 1985 Bigelow & Holmes Inc.  Not to be distributed separately from Inferno.
+
+Inferno, Styx, Dis and Limbo are registered trademarks of Vita Nuova Holdings Limited in the USA and other countries.
